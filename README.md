@@ -6,8 +6,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishmahapatra)](https://git.io/streak-stats)
 
-* NOTE: I don't add WakaTime and others who ask for an API key.
-
 <!--
 **anishmahapatra/anishmahapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
