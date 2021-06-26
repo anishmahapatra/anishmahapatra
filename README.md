@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishmahapatra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anishmahapatra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishmahapatra)](https://git.io/streak-stats)
+
+* NOTE: I don't add WakaTime and others who ask for an API key.
+
 <!--
 **anishmahapatra/anishmahapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
