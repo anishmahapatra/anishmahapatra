@@ -1,5 +1,5 @@
 ### Hi there 👋
-Thanks for having a look at my profile. Please feel free to reach out to me on LinkedIn at [LinkedIn](https://www.linkedin.com/in/anishmahapatra/).
+Thanks for having a look at my profile. Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anishmahapatra/).
 
 [![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishmahapatra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
