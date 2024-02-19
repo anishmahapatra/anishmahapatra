@@ -1,47 +1,45 @@
-### Hi there 👋
+### Hello, World! 👋 I'm Anish Mahapatra
 
-I'm Anish Mahapatra, a seasoned Data Scientist, creating impactful data narratives at 7-Eleven. Passionate about technology and storytelling, I'm on a mission to simplify complex data insights. Welcome to my code repository!
+Welcome to my GitHub space! I'm a Senior Data Scientist based in Bangalore, India, crafting data-driven solutions at 7-Eleven by day and a passionate content creator by night. With over 6 years of experience in the data science domain and a knack for making complex concepts accessible, I'm here to share, collaborate, and learn in the vast expanse of open source.
 
-🔗 Let's network! [![LinkedIn][3.2]][3]
-
-[3.2]: https://i.stack.imgur.com/gVE0j.png (LinkedIn icon without padding)
-[3]: https://www.linkedin.com/in/anishmahapatra/
-
-#### 🚀 My GitHub Stats
-
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishmahapatra&show_icons=true&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishmahapatra&layout=compact&theme=vision-friendly-dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishmahapatra&theme=dark)
-
-#### 🏅 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anishmahapatra&no-frame=true&theme=juicyfresh)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/anishmahapatra/).
 
 ---
 
-🛠 **Technologies & Tools**
+#### 🚀 About Me
+- 🌐 Tech geek at heart with a love for video editing and technical writing.
+- 🎥 Over 20 million views as a Google Maps Local Guide reviewer.
+- 📚 Dedicated to making high-quality, educational content across various platforms.
+- 🎯 Short-term goal: Elevate my content creation to the next level.
+- 🌟 Long-term vision: Achieve financial independence through consistent, innovative content creation.
 
-<!-- Badges for technologies -->
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+#### 📈 GitHub Stats
+![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishmahapatra&show_icons=true&theme=dark)
 
-📈 **Project Highlights**
+#### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=anishmahapatra&theme=onedark)
 
-<!-- Custom badges for projects -->
-![Data Science](https://img.shields.io/badge/-DataScience-02569B?style=flat-square&logo=kaggle)
-![Machine Learning](https://img.shields.io/badge/-MachineLearning-02569B?style=flat-square&logo=tensorflow)
-
-✍️ **Content Creation**
-
-<!-- Social icons for content platforms -->
-![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube)
-![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)
+#### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishmahapatra)
 
 ---
 
-"Data is the new oil, and I'm here to drill!"
+### 🛠 Skills
+- Data Science & Machine Learning
+- Technical Writing & Content Creation
+- Video Editing & Educational Instruction
 
-Feel free to browse my repositories and let's get in touch to make the data world a more understandable and accessible place.
+### 💡 Side Projects
+I thrive on sharing knowledge and skills through technical writing, webinars, and creating instructional videos. Always eager to explore new technologies and methodologies in data science and beyond.
+
+### 📝 I'm Open to
+- Collaborating on open-source projects related to data science and machine learning.
+- Opportunities to contribute to educational content creation.
+- Connecting with fellow tech enthusiasts and content creators.
+
+Feel free to reach out for collaborations or just a friendly chat about technology, content creation, or anything interesting!
+
+---
+
+Remember, the journey of a thousand miles begins with a single step. Let's take that step together!
+
