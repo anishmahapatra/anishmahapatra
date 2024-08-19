@@ -1,6 +1,6 @@
 # Hello! 🌟 I'm Anish Mahapatra
 
-Welcome to my GitHub! I'm Anish Mahapatra, a Senior AI & Data Scientist at 7-Eleven, based in the dynamic tech hub of Bangalore, India. With over 6.5 years of professional experience, I specialize in transforming complex data into strategic insights that drive business success. My career is a blend of advanced analytics, AI innovation, and a passion for creating impactful content. I am committed to making Data Science and AI not just accessible but also actionable.
+Welcome to my GitHub! I'm Anish Mahapatra, a Senior AI & Data Scientist at 7-Eleven, based in the dynamic tech hub of Bangalore, India. With over 7 years of professional experience, I specialize in transforming complex data into strategic insights that drive business success. My career is a blend of advanced analytics, AI innovation, and a passion for creating impactful content. I am committed to making Data Science and AI not just accessible but also actionable.
 
 🔗 **Connect with Me**  
 [![LinkedIn Badge](https://img.shields.io/badge/-Anish_Mahapatra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anishmahapatra/)  
@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Anish Mahapatra, a Senior AI & Data Scientist at 7-Ele
 - 🌐 **Tech Enthusiast**: I am passionate about leveraging cutting-edge technology to solve real-world problems.
 - 🎥 **Content Creator**: With over 25 million views as a Google Maps Local Guide, I am dedicated to creating content that educates, engages, and empowers.
 - 📚 **Knowledge Advocate**: My commitment is to break down complex concepts into digestible, actionable insights, fostering a deeper understanding of Data Science and AI.
-- 🎯 **Goal-Oriented**: I strive for excellence in everything I do, with a clear focus on creating value through innovation and education.
+- 🎯 **Goal-oriented**: I strive for excellence in everything I do, with a clear focus on creating value through innovation and education.
 - 🌟 **Visionary Thinker**: My long-term vision is to continue pushing the boundaries of what's possible with AI and Data Science, contributing to a future where technology serves humanity better.
 
 ## 📈 Digital Presence
@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm Anish Mahapatra, a Senior AI & Data Scientist at 7-Ele
 - **Content Development**: I create educational content that simplifies complex topics, making learning engaging and accessible to a broad audience.
 
 ## 💡 Beyond the Desk
-Outside of my professional role, I am an active contributor to the broader Data Science and AI communities through blogs, tutorials, and open-source projects. My work is driven by a desire to educate and inspire others, particularly those who are new to these exciting fields.
+Outside of my professional role, I actively contribute to the broader Data Science and AI communities through blogs, tutorials, and open-source projects. My work is driven by a desire to educate and inspire others, particularly those new to these exciting fields.
 
 ## 📝 Opportunities for Collaboration
 - **Open-Source Projects**: I am always interested in contributing to meaningful open-source initiatives.
