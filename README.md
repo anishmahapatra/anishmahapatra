@@ -1,76 +1,84 @@
-<div align="center">
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0A66C2,55:0B1220,100:111827&text=Anish%20Mahapatra&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Systems%20Leadership%20%7C%20MLOps%20%7C%20LLMOps&descAlignY=58&descSize=18)
 
-# Anish Mahapatra
-### AI/ML Systems Leadership | MLOps, LLMOps, and Enterprise Data Platforms
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1400&color=0A66C2&center=true&vCenter=true&width=980&lines=Building+production-grade+AI+for+enterprise+scale;Turning+ML+experiments+into+measurable+business+outcomes;Security-first%2C+reliable%2C+high-performance+AI+systems" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish%20Mahapatra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishmahapatra/)
-[![Medium](https://img.shields.io/badge/Medium-Technical%20Writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://anishmahapatra.medium.com/)
-[![Email](https://img.shields.io/badge/Email-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishmahapatra01@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/anishmahapatra/"><img src="https://img.shields.io/badge/LinkedIn-anishmahapatra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/anishmahapatra"><img src="https://img.shields.io/badge/GitHub-anishmahapatra-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://anishmahapatra.medium.com/"><img src="https://img.shields.io/badge/Medium-Technical%20Writing-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:anishmahapatra01@gmail.com"><img src="https://img.shields.io/badge/Email-anishmahapatra01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-`AI/ML` `LLMOps` `MLOps` `Kubernetes` `Databricks` `Azure` `GCP`
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0A66C2?style=flat-square" alt="Experience" />
+</p>
 
 ---
 
-> Building and operationalizing AI systems that move from experimentation to durable business outcomes.
->
-> 7.5+ years across AI, ML, LLMOps, and cloud data platforms, with a focus on secure, scalable, high-reliability ML products for complex enterprise environments.
+## Executive Summary
+I build and operationalize AI systems that move from experimentation to durable business outcomes. With **8+ years** across AI, ML, LLMOps, and enterprise data platforms, I focus on secure, scalable, and high-reliability systems that deliver measurable impact.
 
-## Executive Profile
-| Focus Area | Value Delivered |
-|---|---|
-| AI Productization | Translates PoCs into production-grade AI services used at enterprise scale |
-| Platform Engineering | Builds resilient ML platforms with deployment automation, observability, and governance |
-| Data and Inference Systems | Designs real-time pipelines for high-volume analytics and low-latency decisioning |
-| Technical Leadership | Drives cross-functional execution with CXO stakeholder alignment |
-
-## Selected Outcomes
+## Impact Highlights
 - Scaled privacy-focused AI services from PoC to production for **10+ Fortune 500 enterprises**, reaching **3M+ API calls/month** in the first quarter with sustained growth.
-- Delivered **40% faster NLP throughput** through AI-based pattern recognition pipelines designed for privacy and compliance.
-- Improved deployment reliability by **60%** using containerized microservices and auto-scaling Kubernetes architecture.
+- Delivered **40% faster NLP throughput** through AI-based pattern recognition pipelines engineered for privacy and compliance.
+- Improved deployment reliability by **60%** using containerized microservices with Kubernetes auto-scaling.
 - Reduced release cycles by **45%** by implementing LLMOps and GitOps delivery workflows.
 - Reduced security vulnerabilities by **30%** through RBAC, SAST, dependency governance, and threat modeling.
 - Reduced query latency by **70%** across **2.3B+ rows** with real-time data and processing pipelines.
 - Enabled **$1.2M annual analytics cost savings** by architecting a universal semantic layer.
 
-## Technical Scope
-- Production-grade AI/ML systems for mission-critical workflows
-- LLM applications and retrieval pipelines for enterprise use cases
-- End-to-end MLOps platforms: experiment tracking, deployment, monitoring, and governance
-- Real-time data and inference pipelines with strong reliability and observability
-- Privacy-preserving, security-first AI services for regulated environments
+## Capability Map
+| Area | Core Strength |
+|---|---|
+| AI/ML Systems | NLP, LLM applications, chatbots, ML engineering, applied data science |
+| MLOps and LLMOps | MLflow, Argo CD, GitHub Actions, CI/CD, model lifecycle governance |
+| Data Platforms | Databricks, PySpark, Apache Airflow, SQL, real-time pipelines |
+| Cloud and Infra | Microsoft Azure, Google Cloud Platform (GCP), Docker, Kubernetes |
+| Leadership | CXO stakeholder alignment, technical strategy, cross-functional execution |
 
-## Core Skills
-- **AI/ML**: NLP, LLMOps, Chatbots, ML Engineering, Applied Data Science
-- **MLOps & Platforms**: Docker, Kubernetes, MLflow, Argo CD, GitHub Actions, Databricks
-- **Data & Analytics**: PySpark, Apache Airflow, Power BI, SQL, Real-time pipelines
-- **Cloud**: Microsoft Azure, Google Cloud Platform (GCP)
-- **Languages**: Python, SQL, Bash
-- **Leadership**: CXO stakeholder management, technical strategy, cross-functional execution
+## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,docker,kubernetes,git,githubactions,azure,gcp" alt="Tech Stack" />
+</p>
+
+---
+
+## GitHub Engineering Signals
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishmahapatra&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishmahapatra&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishmahapatra&theme=transparent&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishmahapatra&bg_color=0d1117&color=0A66C2&line=0A66C2&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anishmahapatra&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
 
 ## Thought Leadership
 - Featured technical writer on Towards Data Science with **200,000+ views** across **12 publications**.
 - Data Science mentor and educator, delivering seminars to **50,000 learners** cumulatively.
-
-## Credentials
-- 8+ years in AI, ML, Data Science, and ML Engineering
-- Experience across global enterprise, retail, energy, and analytics domains
-- Certified in GCP, AI, System Design, Scrum Master, and Microsoft PowerPoint Specialist
+- Active contributor to practical AI knowledge-sharing through writing, speaking, and mentoring.
 
 ## Education
 - **M.Sc. Data Science (Distinction)**, Liverpool John Moores University (2021)
 - **PG Diploma, Data Science**, IIIT Bangalore (2020, CGPA: 3.7/4)
 - **B.Tech, Information Technology**, Manipal Institute of Technology (2018)
 
-## Connect
-<div align="center">
-
-### Open to AI leadership, platform transformation, and high-impact collaborations
-
-[![LinkedIn Profile](https://img.shields.io/badge/Visit%20My%20LinkedIn-anishmahapatra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishmahapatra/)
-[![GitHub](https://img.shields.io/badge/GitHub-anishmahapatra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishmahapatra)
-[![Medium](https://img.shields.io/badge/Medium-anishmahapatra-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://anishmahapatra.medium.com/)
-[![Email](https://img.shields.io/badge/Email-anishmahapatra01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishmahapatra01@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishmahapatra&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
+</p>
