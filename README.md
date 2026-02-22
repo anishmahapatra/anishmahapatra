@@ -18,9 +18,9 @@
 ---
 
 ## Executive Summary
-I build and operationalize AI systems that move from experimentation to durable business outcomes. With **8+ years** across AI, ML, LLMOps, and enterprise data platforms, I focus on secure, scalable, and high-reliability systems that deliver measurable impact.
+I build and operationalize AI systems that move from experimentation to measurable business outcomes. With **8+ years** across AI, ML, LLMOps, and enterprise data platforms, I focus on secure, scalable, and high-reliability systems for complex production environments.
 
-## Impact Highlights
+## Strategic Impact
 - Scaled privacy-focused AI services from PoC to production for **10+ Fortune 500 enterprises**, reaching **3M+ API calls/month** in the first quarter with sustained growth.
 - Delivered **40% faster NLP throughput** through AI-based pattern recognition pipelines engineered for privacy and compliance.
 - Improved deployment reliability by **60%** using containerized microservices with Kubernetes auto-scaling.
@@ -29,7 +29,7 @@ I build and operationalize AI systems that move from experimentation to durable 
 - Reduced query latency by **70%** across **2.3B+ rows** with real-time data and processing pipelines.
 - Enabled **$1.2M annual analytics cost savings** by architecting a universal semantic layer.
 
-## Capability Map
+## Leadership Scope
 | Area | Core Strength |
 |---|---|
 | AI/ML Systems | NLP, LLM applications, chatbots, ML engineering, applied data science |
@@ -47,24 +47,12 @@ I build and operationalize AI systems that move from experimentation to durable 
 
 ## GitHub Engineering Signals
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishmahapatra&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anishmahapatra&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishmahapatra&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishmahapatra&theme=transparent&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishmahapatra&bg_color=0d1117&color=0A66C2&line=0A66C2&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anishmahapatra&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
