@@ -1,47 +1,76 @@
-# Hello! 🌟 I'm Anish Mahapatra
+<div align="center">
 
-Welcome to my GitHub! I'm Anish Mahapatra, a Senior AI & Data Scientist at 7-Eleven, based in the dynamic tech hub of Bangalore, India. With over 7 years of professional experience, I specialize in transforming complex data into strategic insights that drive business success. My career is a blend of advanced analytics, AI innovation, and a passion for creating impactful content. I am committed to making Data Science and AI not just accessible but also actionable.
+# Anish Mahapatra
+### AI/ML Systems Leadership | MLOps, LLMOps, and Enterprise Data Platforms
 
-🔗 **Connect with Me**  
-[![LinkedIn Badge](https://img.shields.io/badge/-Anish_Mahapatra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anishmahapatra/)  
-[![GitHub Badge](https://img.shields.io/badge/-anishmahapatra-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/anishmahapatra)  
-[![Medium Badge](https://img.shields.io/badge/-Anish_Mahapatra-black?style=flat&logo=Medium&logoColor=white)](https://anishmahapatra.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish%20Mahapatra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishmahapatra/)
+[![Medium](https://img.shields.io/badge/Medium-Technical%20Writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://anishmahapatra.medium.com/)
+[![Email](https://img.shields.io/badge/Email-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishmahapatra01@gmail.com)
 
----
+`AI/ML` `LLMOps` `MLOps` `Kubernetes` `Databricks` `Azure` `GCP`
 
-## 🚀 Professional Philosophy
-- 🌐 **Tech Enthusiast**: I am passionate about leveraging cutting-edge technology to solve real-world problems.
-- 🎥 **Content Creator**: With over 25 million views as a Google Maps Local Guide, I am dedicated to creating content that educates, engages, and empowers.
-- 📚 **Knowledge Advocate**: My commitment is to break down complex concepts into digestible, actionable insights, fostering a deeper understanding of Data Science and AI.
-- 🎯 **Goal-oriented**: I strive for excellence in everything I do, with a clear focus on creating value through innovation and education.
-- 🌟 **Visionary Thinker**: My long-term vision is to continue pushing the boundaries of what's possible with AI and Data Science, contributing to a future where technology serves humanity better.
-
-## 📈 Digital Presence
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishmahapatra&show_icons=true&theme=dark)
-
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=anishmahapatra&theme=onedark)
-
-## 🔥 Consistency is Key
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishmahapatra)
+</div>
 
 ---
 
-## 🛠 My Toolkit
-- **Data Science & AI Expertise**: Skilled in advanced analytics, machine learning, and AI-driven solutions that drive business outcomes.
-- **Storytelling with Data**: I excel at crafting compelling narratives from data, making complex insights easy to understand and act upon.
-- **Content Development**: I create educational content that simplifies complex topics, making learning engaging and accessible to a broad audience.
+> Building and operationalizing AI systems that move from experimentation to durable business outcomes.
+>
+> 7.5+ years across AI, ML, LLMOps, and cloud data platforms, with a focus on secure, scalable, high-reliability ML products for complex enterprise environments.
 
-## 💡 Beyond the Desk
-Outside of my professional role, I actively contribute to the broader Data Science and AI communities through blogs, tutorials, and open-source projects. My work is driven by a desire to educate and inspire others, particularly those new to these exciting fields.
+## Executive Profile
+| Focus Area | Value Delivered |
+|---|---|
+| AI Productization | Translates PoCs into production-grade AI services used at enterprise scale |
+| Platform Engineering | Builds resilient ML platforms with deployment automation, observability, and governance |
+| Data and Inference Systems | Designs real-time pipelines for high-volume analytics and low-latency decisioning |
+| Technical Leadership | Drives cross-functional execution with CXO stakeholder alignment |
 
-## 📝 Opportunities for Collaboration
-- **Open-Source Projects**: I am always interested in contributing to meaningful open-source initiatives.
-- **Educational Content**: Partner with me to create high-quality educational materials that demystify technology.
-- **Networking & Mentorship**: I enjoy connecting with fellow professionals and aspiring data scientists to exchange ideas and foster growth.
+## Selected Outcomes
+- Scaled privacy-focused AI services from PoC to production for **10+ Fortune 500 enterprises**, reaching **3M+ API calls/month** in the first quarter with sustained growth.
+- Delivered **40% faster NLP throughput** through AI-based pattern recognition pipelines designed for privacy and compliance.
+- Improved deployment reliability by **60%** using containerized microservices and auto-scaling Kubernetes architecture.
+- Reduced release cycles by **45%** by implementing LLMOps and GitOps delivery workflows.
+- Reduced security vulnerabilities by **30%** through RBAC, SAST, dependency governance, and threat modeling.
+- Reduced query latency by **70%** across **2.3B+ rows** with real-time data and processing pipelines.
+- Enabled **$1.2M annual analytics cost savings** by architecting a universal semantic layer.
 
-I am always open to new challenges and opportunities. Whether you’re looking to collaborate on a project, discuss the latest in AI and Data Science, or simply connect, feel free to reach out!
+## Technical Scope
+- Production-grade AI/ML systems for mission-critical workflows
+- LLM applications and retrieval pipelines for enterprise use cases
+- End-to-end MLOps platforms: experiment tracking, deployment, monitoring, and governance
+- Real-time data and inference pipelines with strong reliability and observability
+- Privacy-preserving, security-first AI services for regulated environments
 
----
+## Core Skills
+- **AI/ML**: NLP, LLMOps, Chatbots, ML Engineering, Applied Data Science
+- **MLOps & Platforms**: Docker, Kubernetes, MLflow, Argo CD, GitHub Actions, Databricks
+- **Data & Analytics**: PySpark, Apache Airflow, Power BI, SQL, Real-time pipelines
+- **Cloud**: Microsoft Azure, Google Cloud Platform (GCP)
+- **Languages**: Python, SQL, Bash
+- **Leadership**: CXO stakeholder management, technical strategy, cross-functional execution
 
-Let’s embark on a journey of innovation and learning together, where every project is a step toward making technology work better for everyone. 🚀
+## Thought Leadership
+- Featured technical writer on Towards Data Science with **200,000+ views** across **12 publications**.
+- Data Science mentor and educator, delivering seminars to **50,000 learners** cumulatively.
+
+## Credentials
+- 8+ years in AI, ML, Data Science, and ML Engineering
+- Experience across global enterprise, retail, energy, and analytics domains
+- Certified in GCP, AI, System Design, Scrum Master, and Microsoft PowerPoint Specialist
+
+## Education
+- **M.Sc. Data Science (Distinction)**, Liverpool John Moores University (2021)
+- **PG Diploma, Data Science**, IIIT Bangalore (2020, CGPA: 3.7/4)
+- **B.Tech, Information Technology**, Manipal Institute of Technology (2018)
+
+## Connect
+<div align="center">
+
+### Open to AI leadership, platform transformation, and high-impact collaborations
+
+[![LinkedIn Profile](https://img.shields.io/badge/Visit%20My%20LinkedIn-anishmahapatra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishmahapatra/)
+[![GitHub](https://img.shields.io/badge/GitHub-anishmahapatra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishmahapatra)
+[![Medium](https://img.shields.io/badge/Medium-anishmahapatra-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://anishmahapatra.medium.com/)
+[![Email](https://img.shields.io/badge/Email-anishmahapatra01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishmahapatra01@gmail.com)
+
+</div>
