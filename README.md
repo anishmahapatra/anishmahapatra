@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0A66C2,55:0B1220,100:111827&text=Anish%20Mahapatra&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Systems%20Leadership%20%7C%20MLOps%20%7C%20LLMOps&descAlignY=58&descSize=18)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1400&color=0A66C2&center=true&vCenter=true&width=980&lines=Building+production-grade+AI+for+enterprise+scale;Turning+ML+experiments+into+measurable+business+outcomes;Security-first%2C+reliable%2C+high-performance+AI+systems" alt="Typing SVG" />
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1400&color=0A66C2&center=true&vCenter=true&width=760&lines=Building+production-grade+AI+at+enterprise+scale;Turning+ML+experiments+into+business+outcomes;Security-first%2C+reliable%2C+high-performance+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
