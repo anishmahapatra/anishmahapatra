@@ -21,7 +21,7 @@
 I build and operationalize AI systems that move from experimentation to measurable business outcomes. With **8+ years** across AI, ML, LLMOps, and enterprise data platforms, I focus on secure, scalable, and high-reliability systems for complex production environments.
 
 ## Strategic Impact
-- Scaled privacy-focused AI services from PoC to production for **10+ Fortune 500 enterprises**, reaching **3M+ API calls/month** in the first quarter with sustained growth.
+- Scaled privacy-focused AI services from PoC to production for **10+ Fortune 500 enterprises**, reaching **6M+ API calls/month** in the first quarter with sustained growth.
 - Delivered **40% faster NLP throughput** through AI-based pattern recognition pipelines engineered for privacy and compliance.
 - Improved deployment reliability by **60%** using containerized microservices with Kubernetes auto-scaling.
 - Reduced release cycles by **45%** by implementing LLMOps and GitOps delivery workflows.
@@ -40,7 +40,7 @@ I build and operationalize AI systems that move from experimentation to measurab
 
 ## Tech Stack
 <p align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=python,sql,bash,linux,docker,kubernetes,git,githubactions,azure,gcp,tensorflow,pytorch,sklearn" alt="Tech Stack" />
+  <img width="100%" src="https://skillicons.dev/icons?i=python,mysql,postgres,bash,linux,docker,kubernetes,git,githubactions,azure,gcp,tensorflow,pytorch,sklearn" alt="Tech Stack" />
 </p>
 
 <p align="center">
