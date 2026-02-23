@@ -21,7 +21,7 @@
 I build and operationalize AI systems that move from experimentation to measurable business outcomes. With **8+ years** across AI, ML, LLMOps, and enterprise data platforms, I focus on secure, scalable, and high-reliability systems for complex production environments.
 
 ## Strategic Impact
-- Scaled privacy-focused AI services from PoC to production for **10+ Fortune 500 enterprises**, reaching **3M+ API calls/month** in the first quarter with sustained growth.
+- Scaled privacy-focused AI services from PoC to production for **10+ Fortune 500 enterprises**, reaching **6M+ API calls/month** in the first quarter with sustained growth.
 - Delivered **40% faster NLP throughput** through AI-based pattern recognition pipelines engineered for privacy and compliance.
 - Improved deployment reliability by **60%** using containerized microservices with Kubernetes auto-scaling.
 - Reduced release cycles by **45%** by implementing LLMOps and GitOps delivery workflows.
@@ -40,19 +40,44 @@ I build and operationalize AI systems that move from experimentation to measurab
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,docker,kubernetes,git,githubactions,azure,gcp" alt="Tech Stack" />
+  <img width="100%" src="https://skillicons.dev/icons?i=python,mysql,postgres,bash,linux,docker,kubernetes,git,githubactions,azure,gcp,tensorflow,pytorch,sklearn" alt="Tech Stack" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PySpark-Distributed%20Compute-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Databricks-Platform-EA580C?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-Data%20Processing-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-Streaming-111827?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-2563EB?style=flat-square" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Rasa-Conversational%20AI-5A17EE?style=flat-square" alt="Rasa" />
+  <img src="https://img.shields.io/badge/Dialogflow-NLP%20Platform-FF9800?style=flat-square&logo=dialogflow&logoColor=white" alt="Dialogflow" />
+</p>
+
+- **AI/LLM and Modeling**: NLP, LLMOps, Chatbots, Retrieval Pipelines, ML Engineering, Rasa, Dialogflow
+- **Data and Streaming**: PySpark, Spark, Kafka, SQL, Real-time Pipelines, Semantic Layering
+- **MLOps and Delivery**: MLflow, Argo CD, GitHub Actions, CI/CD, Model Governance
+- **Cloud and Platforms**: Azure, GCP, Databricks, Airflow, Power BI, Docker, Kubernetes
 
 ---
 
-## GitHub Engineering Signals
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishmahapatra&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishmahapatra&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
-</p>
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishmahapatra&bg_color=0d1117&color=0A66C2&line=0A66C2&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
