@@ -1,10 +1,10 @@
 # Anish Mahapatra
 
-Senior MLOps Engineer building reliable AI platforms, production ML, and LLM systems.
+Senior MLOps Engineer and AI Educator, building reliable AI platforms, production ML, and LLM systems. More at [anishmahapatra.com](https://anishmahapatra.com/).
 
 I work at the platform boundary between a model and a dependable service: reproducible pipelines, deployment workflows, model serving, observability, and the data systems around them.
 
-[LinkedIn](https://www.linkedin.com/in/anishmahapatra/) · [Technical writing](https://anishmahapatra.medium.com/)
+[anishmahapatra.com](https://anishmahapatra.com/) · [LinkedIn](https://linkedin.com/in/anishmahapatra/) · [Medium](https://anishmahapatra.medium.com/) · [Substack](https://anishmahapatra.substack.com/) · [YouTube: AI For Dummies](https://www.youtube.com/@AIForDummiesAnish)
 
 ## Production experience
 
