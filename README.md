@@ -4,7 +4,7 @@ Senior MLOps Engineer and AI Educator, building reliable AI platforms, productio
 
 I work at the platform boundary between a model and a dependable service: reproducible pipelines, deployment workflows, model serving, observability, and the data systems around them.
 
-[anishmahapatra.com](https://anishmahapatra.com/) · [LinkedIn](https://linkedin.com/in/anishmahapatra/) · [Medium](https://anishmahapatra.medium.com/) · [Substack](https://anishmahapatra.substack.com/) · [YouTube: AI For Dummies](https://www.youtube.com/@AIForDummiesAnish)
+[anishmahapatra.com](https://anishmahapatra.com/) · [LinkedIn](https://linkedin.com/in/anishmahapatra/) · [Medium](https://anishmahapatra.medium.com/) · [YouTube: AI For Dummies](https://www.youtube.com/@AIForDummiesAnish)
 
 ## Production experience
 
